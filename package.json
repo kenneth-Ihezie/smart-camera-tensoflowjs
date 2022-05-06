@@ -1,0 +1,17 @@
+{
+  "name": "smart-camera",
+  "version": "1.0.0",
+  "description": "An AI web app that uses object detection to detect real time objects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "collins ihezie",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-session": "^1.17.1"
+  }
+}
